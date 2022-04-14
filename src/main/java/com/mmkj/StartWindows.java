@@ -28,7 +28,7 @@ public class StartWindows {
         BasicInfoFrame basicInfoFrame = new BasicInfoFrame();
         DataInfoFrame dataInfoFrame = new DataInfoFrame();
         basicInfoFrame.setMyCompoments(dataInfoFrame, startWindows);
-        //c二十
+        //c二十zxcz
 
     }
 
